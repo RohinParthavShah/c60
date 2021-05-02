@@ -1,0 +1,47 @@
+body{
+ text-align: center; 
+
+    
+}
+
+.line{
+height:6px;
+background-color: darkblue;
+width:70px;    
+margin:8px auto;
+    
+}
+
+#app{
+ width: 100%;
+height: 800px;
+background-color: aqua;
+
+    
+}
+
+#game{
+ width: 100%;
+height: 800px;
+background-color:aquamarine;   
+    
+}
+
+
+#arts{
+ width: 100%;
+height: 800px;
+background-color:cornflowerblue;
+
+}
+
+img{
+ transition: transform .2s;
+    
+    
+}
+
+img: hover{
+ transform: scale(0.9); 
+    
+}
